@@ -1,2 +1,16 @@
-# CalculadoraEmPythonXD
-Não se tem muito o que querer por aqui
+# Calculadora em Python
+
+Meu primeiro projeto em Python.
+Uma transfiguração do meu projeto de calculadora em C, da escola.
+
+## Funções
+- soma
+- subtração
+- multiplicação
+- divisão
+
+## Como executar
+```bash
+python3 main.py
+
+by lowestbody96
